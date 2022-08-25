@@ -11,8 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = 'මම ඔන්ලයින් මොකක්ද වෙන්න ඔනි✊` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,11 +28,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.vcardowner = ['+94761346248'] // owner number
+global.ownername = "🍁සයිබර් ෆ්ලැශ් උතුමානන්🍁" // owner name
+global.ytname = "https://youtube.com/channel/UCPVxr1KqHXWom1WMUujGLxA" // yt chanel name
+global.socialm = "https://youtube.com/channel/UCPVxr1KqHXWom1WMUujGLxA" // github or insta name
+global.location = "Sri lanka" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,16 +46,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94761346248']
+global.ownertag = '+94761346248' //your tag number
+global.botname = '🔰𝗖𝗬𝗕𝗘𝗥 𝗙𝗟𝗔𝗦𝗛 𝗠𝗗🔰' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "𝗖𝗬𝗕𝗘𝗥 𝗙𝗟𝗔𝗦𝗛" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94761346248'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
